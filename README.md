@@ -1,10 +1,11 @@
-### Change Log - 0.0.2
+A simple purescript cacthMe game with Mouse!!
 
-1 - Attribute value typed(Need to change type of all individual Properties)
+#  install
 
-2 - Event Response typed
+npm i
+bower i
+pulp build
 
-3 - Auto id generation
 
-4 - Action name used for atatching events.
+# install purescript-integers 
 
